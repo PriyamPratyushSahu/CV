@@ -110,6 +110,9 @@ body {
   color: #197394;
 }
 
+.email {
+  font-size: 11px;
+}
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
